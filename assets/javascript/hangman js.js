@@ -9,8 +9,6 @@ var docUnderScore = document.getElementsByClassName("underscore");
 var docRightGuess = document.getElementsByClassName("rightGuess");
 var docWrongGuess = document.getElementsByClassName("wrongGuess");
 
-console.log(chosenWord);
-
 var generateUnderscore = () => {
     for(var i = 0; i < chosenWord.length; i++){
         underScore.push("_");
