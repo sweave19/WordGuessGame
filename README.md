@@ -1,2 +1,2 @@
 # word-guess-game
-HW #3
+Word Guess is a game, similar to hangman, where a user must guess the letters of different US city names.
